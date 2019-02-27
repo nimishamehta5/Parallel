@@ -1,0 +1,1 @@
+/usr/local/pacerepov1/gcc/7.3.0/bin/g++  -std=c++11 -pthread  -L/usr/local/pacerepov1/gcc/mpc/0.9/lib -L/usr/local/pacerepov1/gcc/mpfr/3.1.0/lib -L/usr/local/pacerepov1/gmp/6.1.0/lib -L/usr/local/pacerepov1/gcc/7.3.0/lib64 CMakeFiles/se3.dir/src/heat2D3D.cc.o  -o se3 

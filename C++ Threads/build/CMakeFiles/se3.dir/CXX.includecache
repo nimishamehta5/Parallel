@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/nv/coc-ice/nmehta78/se3/src/heat2D3D.cc
+iostream
+-
+thread
+-
+fstream
+-
+stdio.h
+-
+cstdio
+-
+stdlib.h
+-
+string.h
+-
+cstring
+-
+ctime
+-
+chrono
+-
+sys/time.h
+-
+
